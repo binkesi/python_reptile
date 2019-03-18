@@ -1,0 +1,15 @@
+[INFO  - 2019-03-13T09:55:41.509Z] GhostDriver - Main - running on port 18331
+[INFO  - 2019-03-13T09:55:45.314Z] Session [2bb265c0-4576-11e9-9262-3d37483f1dfc] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-03-13T09:55:45.314Z] Session [2bb265c0-4576-11e9-9262-3d37483f1dfc] - page.customHeaders:  - {}
+[INFO  - 2019-03-13T09:55:45.314Z] Session [2bb265c0-4576-11e9-9262-3d37483f1dfc] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-03-13T09:55:45.315Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 2bb265c0-4576-11e9-9262-3d37483f1dfc
+[INFO  - 2019-03-13T09:57:39.239Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+: c
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-13T09:56:29.813Z] Session [2bb265c0-4576-11e9-9262-3d37483f1dfc] - page.onError - stack:
+  sendLog (https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js:4)
+  (anonymous function) (https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js:5)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2019-03-13T10:00:41.512Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
